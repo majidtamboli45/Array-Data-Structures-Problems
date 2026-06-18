@@ -184,7 +184,7 @@ Many **DP problems use arrays for storing intermediate results**.
 2️⃣ Maximum Subarray (Kadane's Algorithm)
 3️⃣ Merge Sorted Arrays
 4️⃣ Find Duplicate Number
-5️⃣ Rotate Array
+
 
 ---
 
