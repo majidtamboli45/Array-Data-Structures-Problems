@@ -183,7 +183,7 @@ Many **DP problems use arrays for storing intermediate results**.
 1️⃣ Two Sum Problem
 2️⃣ Maximum Subarray (Kadane's Algorithm)
 3️⃣ Merge Sorted Arrays
-4️⃣ Find Duplicate Number
+
 
 
 ---
